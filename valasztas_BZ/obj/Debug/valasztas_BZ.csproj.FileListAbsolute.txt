@@ -1,0 +1,8 @@
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\bin\Debug\szavazatok.txt
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\bin\Debug\valasztas_BZ.exe.config
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\bin\Debug\valasztas_BZ.exe
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\bin\Debug\valasztas_BZ.pdb
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\obj\Debug\valasztas_BZ.csprojAssemblyReference.cache
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\obj\Debug\valasztas_BZ.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\obj\Debug\valasztas_BZ.exe
+C:\Users\Rendszergazda\Documents\GitHub\valasztas_BZ\valasztas_BZ\obj\Debug\valasztas_BZ.pdb
